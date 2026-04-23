@@ -6,7 +6,7 @@ public class ConversationalBasic {
 
         if (prompt.toLowerCase().contains("hola")) {
 
-            return "Hola, ¿en qué puedo ayudarte?";
+            return "Hola! ¿en qué puedo ayudarte?";
 
         } else if (prompt.toLowerCase().contains("adios")) {
 

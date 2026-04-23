@@ -1,6 +1,6 @@
 package com.ux.edu.conversational.ia.Primeraversion1;
 
-import java.util.Scanner;
+import java.util.Scanner; //Importar Scanner
 
 public class MainBasic {
 
