@@ -10,7 +10,7 @@ public class ConversationalBasic {
 
         } else if (prompt.toLowerCase().contains("adios")) {
 
-            return "Hasta luego";
+            return "Hasta luego!";
 
         } else {
 
