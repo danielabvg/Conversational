@@ -6,7 +6,7 @@ public class MistralS implements ModeloS {
 
     public String generarRespuesta(String prompt) {
 
-        return "Mistral responde: " + prompt;
+        return "MistralS responde: " + prompt;
 
     }
 

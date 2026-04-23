@@ -5,3 +5,4 @@ public interface ModeloS {
     String generarRespuesta(String prompt);
 
 }
+//Clases

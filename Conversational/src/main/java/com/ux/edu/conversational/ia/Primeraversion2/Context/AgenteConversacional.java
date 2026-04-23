@@ -22,6 +22,6 @@ public class AgenteConversacional {
 
         return estrategia.generarRespuesta(prompt);
 
-    }
+    } //d
 
 }

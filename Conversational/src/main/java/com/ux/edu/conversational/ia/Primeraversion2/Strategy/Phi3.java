@@ -9,5 +9,5 @@ public class Phi3 implements ModeloS {
         return "Phi-3 responde: " + prompt;
 
     }
-
+//Clases
 }

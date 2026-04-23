@@ -4,7 +4,7 @@ import com.ux.edu.conversational.ia.Primeraversion2.Context.AgenteConversacional
 
 import com.ux.edu.conversational.ia.Primeraversion2.Strategy.*;
 
-import java.util.Scanner;
+import java.util.Scanner; // Importar
 
 public class Main {
 

@@ -6,7 +6,7 @@ public class LlamaS implements ModeloS {
 
     public String generarRespuesta(String prompt) {
 
-        return "Llama responde: " + prompt;
+        return "LlamaS responde: " + prompt;
 
     }
 
