@@ -10,7 +10,7 @@ public class MainBasic {
 
         ConversationalBasic bot = new ConversationalBasic();
 
-        System.out.println("Escribe algo:");
+        System.out.println("Escribe algo por favor:");
 
         String input = scanner.nextLine();
 
