@@ -1,4 +1,4 @@
-package com.mx.curso.Unidad3.PromptPractice;
+package com.ux.edu.conversational.ia.PromptPractice;
 
 public class Llama3Strategy extends AIStrategy {
 
